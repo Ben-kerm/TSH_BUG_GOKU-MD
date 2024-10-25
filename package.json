@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Kevin Tsh",
+    "author": "prince karvends",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.6",
